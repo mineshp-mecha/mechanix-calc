@@ -1,6 +1,6 @@
 # Mechanix Calculator
 
-A modern, functional calculator app built with Flutter for Mechanix OS. It features a clean UI, basic arithmetic operations, and calculation history.
+A modern, functional calculator app built with Flutter Elinux for Mechanix OS. It features a clean UI, basic arithmetic operations, and calculation history.
 
 ## ✨ Features
 
